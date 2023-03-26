@@ -1,0 +1,68 @@
+body {
+    background:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% contain cover;
+    background-repeat: no-repeat;
+}
+
+main {
+    background-color: burlywood;
+    margin: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+header {
+    text-align: center;
+    font-family: Impact, sans-serif;
+    font-size: 45px;
+}
+
+.fig {
+    font-size: 15px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+}
+
+.center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.coffee1 {
+    text-align: center;
+    font-family: Impact, sans-serif;
+    font-size: 40px;
+}
+
+.desserts1 {
+    text-align: center;
+    font-family: Impact, sans-serif;
+    font-size: 40px;
+}
+
+footer {
+    text-align: center;
+}
+
+section {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    font-size: 20px;
+    border-collapse: separate;
+    margin-left: 25px;
+    margin-block: 1px;
+}
+
+.price {
+    display: table-row;
+    float: right;
+}
